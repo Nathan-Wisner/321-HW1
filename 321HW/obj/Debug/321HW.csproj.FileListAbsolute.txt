@@ -1,0 +1,14 @@
+c:\users\wisne\onedrive\documents\visual studio 2015\Projects\321HW\321HW\bin\Debug\321HW.exe.config
+c:\users\wisne\onedrive\documents\visual studio 2015\Projects\321HW\321HW\bin\Debug\321HW.exe
+c:\users\wisne\onedrive\documents\visual studio 2015\Projects\321HW\321HW\bin\Debug\321HW.pdb
+c:\users\wisne\onedrive\documents\visual studio 2015\Projects\321HW\321HW\obj\Debug\321HW.csprojResolveAssemblyReference.cache
+c:\users\wisne\onedrive\documents\visual studio 2015\Projects\321HW\321HW\obj\Debug\321HW.exe
+c:\users\wisne\onedrive\documents\visual studio 2015\Projects\321HW\321HW\obj\Debug\321HW.pdb
+C:\Users\wisne\Documents\School\321HW\321HW\bin\Debug\321HW.exe.config
+C:\Users\wisne\Documents\School\321HW\321HW\obj\Debug\321HW.exe
+C:\Users\wisne\Documents\School\321HW\321HW\obj\Debug\321HW.pdb
+C:\Users\wisne\Documents\School\321HW\321HW\bin\Debug\321HW.exe
+C:\Users\wisne\Documents\School\321HW\321HW\bin\Debug\321HW.pdb
+C:\Users\wisne\Documents\School\321HW\321HW\obj\Debug\321HW.csprojResolveAssemblyReference.cache
+C:\Users\wisne\Documents\School\321HW\321HW\bin\Debug\321HW.exe.CodeAnalysisLog.xml
+C:\Users\wisne\Documents\School\321HW\321HW\bin\Debug\321HW.exe.lastcodeanalysissucceeded
